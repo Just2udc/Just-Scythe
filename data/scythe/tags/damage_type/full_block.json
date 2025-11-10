@@ -1,0 +1,8 @@
+{
+  "values": [
+    "player_attack",
+    "mace_smash",
+    "mob_attack",
+    "mob_attack_no_aggro"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:player_head",
+			"components": {"profile":"Just2UDC"}
+		},
+		"title": "Juju",
+		"frame": "challenge",
+		"description": [
+			"All loaded Juju's data packs"
+		],
+		"background": "minecraft:block/black_concrete",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

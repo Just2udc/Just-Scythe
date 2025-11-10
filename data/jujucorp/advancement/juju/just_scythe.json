@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+      "id": "golden_sword",
+      "components": {
+        "minecraft:custom_data": {"golden_scythe":1},
+		"minecraft:item_model": "scythe:golden_scythe"
+      }
+    },
+		"title": "Just Scythe",
+		"frame": "task",
+		"description": "A farming tool, trust",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"parent": "jujucorp:juju/root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
