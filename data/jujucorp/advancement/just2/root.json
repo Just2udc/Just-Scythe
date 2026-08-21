@@ -4,10 +4,10 @@
 			"id": "minecraft:player_head",
 			"components": {"profile":"Just2UDC"}
 		},
-		"title": "Juju",
+		"title": "Just2",
 		"frame": "challenge",
 		"description": [
-			"All loaded Juju's data packs"
+			"All loaded Just2's data packs"
 		],
 		"background": "minecraft:block/black_concrete",
 		"show_toast": false,

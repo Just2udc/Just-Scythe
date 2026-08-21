@@ -7,28 +7,28 @@
     "g  "
   ],
   "key": {
-    "c": "minecraft:netherite_ingot",
+    "c": "minecraft:copper_ingot",
     "g": "stick"
   },
   "result": {
-    "id": "minecraft:netherite_sword",
+    "id": "minecraft:copper_sword",
     "components": {
       "minecraft:custom_data": {
-        "netherite_scythe": 1
+        "golden_scythe": 1
       },
-      "minecraft:item_name": "Netherite Scythe",
+      "minecraft:item_name": "Copper Scythe",
       "attribute_modifiers": [
         {
           "id": "attack_damage",
           "type": "attack_damage",
-          "amount": 9,
+          "amount": 6,
           "operation": "add_value",
           "slot": "mainhand"
         },
         {
           "id": "attack_speed",
           "type": "attack_speed",
-          "amount": -2.4,
+          "amount": -2.7,
           "operation": "add_value",
           "slot": "mainhand"
         },
@@ -60,10 +60,10 @@
         ],
         "block_delay_seconds": 0,
         "disable_cooldown_scale": 1,
-        "block_sound": "minecraft:block.netherite_block.break"
+        "block_sound": "minecraft:block.iron.break"
       },
-      "minecraft:rarity": "rare",
-        "item_model":"scythe:netherite_scythe"
+      "minecraft:rarity": "common",
+      "item_model":"scythe:copper_scythe"
     },
     "count": 1
   },

@@ -21,14 +21,14 @@
         {
           "id": "attack_damage",
           "type": "attack_damage",
-          "amount": 6,
+          "amount": 5,
           "operation": "add_value",
           "slot": "mainhand"
         },
         {
           "id": "attack_speed",
           "type": "attack_speed",
-          "amount": -2.4,
+          "amount": -2.7,
           "operation": "add_value",
           "slot": "mainhand"
         },

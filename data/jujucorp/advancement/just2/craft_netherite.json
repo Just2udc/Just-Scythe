@@ -1,0 +1,24 @@
+{
+  "parent": "jujucorp:just2/just_scythe",
+  "criteria": {
+    "obtain": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:netherite_sword_smithing",
+        "ingredients": [
+          {
+            "items": "minecraft:diamond_sword",
+            "components": {
+              "minecraft:custom_data": {
+                "diamond_scythe": 1
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "scythe:craft_netherite"
+  }
+}

@@ -28,7 +28,7 @@
         {
           "id": "attack_speed",
           "type": "attack_speed",
-          "amount": -2.4,
+          "amount": -2.7,
           "operation": "add_value",
           "slot": "mainhand"
         },
@@ -62,8 +62,7 @@
         "disable_cooldown_scale": 1,
         "block_sound": "minecraft:block.iron.break"
       },
-      "minecraft:rarity": "uncommon",
-      "item_model":"scythe:diamond_scythe"
+      "minecraft:rarity": "uncommon"
     },
     "count": 1
   },
